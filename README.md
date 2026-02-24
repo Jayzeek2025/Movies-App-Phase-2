@@ -1,4 +1,4 @@
-# 🎬 Movie Explorer – Phase 1
+# 🎬 Movie Explorer – Phase 2
 
 ## ⚠ IMPORTANT – Environment Variable Required
 
